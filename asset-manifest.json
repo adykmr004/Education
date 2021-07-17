@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Education/static/css/main.7a815947.chunk.css",
-    "main.js": "/Education/static/js/main.e7f6c73e.chunk.js",
-    "main.js.map": "/Education/static/js/main.e7f6c73e.chunk.js.map",
+    "main.js": "/Education/static/js/main.65d48831.chunk.js",
+    "main.js.map": "/Education/static/js/main.65d48831.chunk.js.map",
     "runtime-main.js": "/Education/static/js/runtime-main.87110cce.js",
     "runtime-main.js.map": "/Education/static/js/runtime-main.87110cce.js.map",
     "static/css/2.75c4ecca.chunk.css": "/Education/static/css/2.75c4ecca.chunk.css",
     "static/js/2.670fdb07.chunk.js": "/Education/static/js/2.670fdb07.chunk.js",
     "static/js/2.670fdb07.chunk.js.map": "/Education/static/js/2.670fdb07.chunk.js.map",
     "index.html": "/Education/index.html",
-    "precache-manifest.93cafe813965b38a4b8fd987c1894bd7.js": "/Education/precache-manifest.93cafe813965b38a4b8fd987c1894bd7.js",
+    "precache-manifest.edd38349aba2f8d0e61fc06490066458.js": "/Education/precache-manifest.edd38349aba2f8d0e61fc06490066458.js",
     "service-worker.js": "/Education/service-worker.js",
     "static/css/2.75c4ecca.chunk.css.map": "/Education/static/css/2.75c4ecca.chunk.css.map",
     "static/css/main.7a815947.chunk.css.map": "/Education/static/css/main.7a815947.chunk.css.map",
@@ -28,6 +28,6 @@
     "static/css/2.75c4ecca.chunk.css",
     "static/js/2.670fdb07.chunk.js",
     "static/css/main.7a815947.chunk.css",
-    "static/js/main.e7f6c73e.chunk.js"
+    "static/js/main.65d48831.chunk.js"
   ]
 }
